@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ETHLottery Client
 
 This projects is an <a href="https://www.ethereum.org/">Ethereum</a> based lottery.
@@ -60,3 +61,8 @@ The project was made by two friends who belive the world should not be in contro
 We all share the same planet and we all want to live!
 
 Life Lottery!
+=======
+# test222
+
+‚Â‚©‚³‚ñ‚³‚ñ
+>>>>>>> remotes/origin/master
